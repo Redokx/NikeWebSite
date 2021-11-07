@@ -33,11 +33,6 @@ html {
     min-height: 600px;
 }
 
-.bgimg-4 {
-    background-image: url("./nikeparallax4.jpg");
-    min-height: 600px;
-}
-
 .caption {
     position: absolute;
     left: 0;
@@ -163,4 +158,14 @@ h3 {
     color: rgb(53, 53, 53);
     margin-top: 5px;
     margin-bottom: 20px;
+}
+
+.button-dark {
+    justify-content: center;
+    align-items: center;
+}
+
+.list-unstyled,
+.text-uppercase {
+    text-align: start;
 }
